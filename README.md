@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yash!
-#### I am an SRE by profession
+#### I am an DevOps by profession
 
 Skills: Kubernetes / Terraform / Ansible / Jenkins / Splunk / DataDog / Git / AWS / Azure / GCP
 
